@@ -1,0 +1,158 @@
+C:\Users\sengu\anaconda3\python.exe C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py
+	MAIN MENU
+---------------------------
+	1. NEW USER CREATION
+	2. Login
+	3. Exit
+---------------------------
+	Select Your Option: 
+1
+Student Registration Form:
+---------------------------
+Enter your name : Amitava Majumder
+Enter the Email : amitava2112@gmail.com
+Enter The Password:User@123
+Password is valid
+Enter The Password again:User@123
+Password is valid
+Enter The Contact:9748263373
+Signup Done....
+Re-enter your data:
+---------------------------
+	1. NEW USER CREATION
+	2. Login
+	3. Exit
+---------------------------
+	Select Your Option: 
+2
+Please Enter your Login details:
+---------------------------
+Enter your Email :amit2112@gmail.com
+Enter your password :Suman@123
+Success@@@
+Login Success....
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+1
+Ineourn Course Library------------------------------------------------------------------
+Full Stack Data Science Bootcamp Sudhanshu Kumar,Krish Naik,Sunny Bhaveen Chandra 17700
+Full Stack Web Development using Python in Hindi Navin Reddy,Saurabh Shukla 4000
+Cyber Security Masters Saksham Choudhary 4000
+Job Guaranteed Big Data Bootcamp Shashank Mishra, Sudhanshu Kumar 17700
+Full Stack Data Analytics Krish Naik 4000
+Full Stack Data Science Bootcamp Sudhanshu Kumar,Krish Naik,Sunny Bhaveen Chandra 17700
+Full Stack Web Development using Python in Hindi Navin Reddy,Saurabh Shukla 4000
+Cyber Security Masters Saksham Choudhary 4000
+Job Guaranteed Big Data Bootcamp Shashank Mishra, Sudhanshu Kumar 17700
+Full Stack Data Analytics Krish Naik 4000
+No data found...2!!!! No data found...
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+2
+['BigData', 'Blockchain', 'DataSciene']
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+3
+-------------------------------------
+	Welcome to One Neuron
+	1. Tech Neuron
+	2. Kids Neuron
+-------------------------------------
+Enter your choice:1
+One Neourn Details------------------------------------------------------------------
+Tech Neuron   200+ courses, 500+ projects, raise your demand option, consistent services from iNeuron, work 1:1 with experts   11800
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+4
+Ineourn Jobs------------------------------------------------------------------
+Business Development Associate 
+0-1 year 3-5L
+Senior UI/UX Designer 
+4-5 years 10L+
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+5
+Ineourn Affiliates------------------------------------------------------------------
+0 Affiliate Marketing - Explore affiliate marketing opportunities with iNeuron and attain financial frredom.
+1 Internship portal - iNeurons self-paced internship portal prioritises hands-on training with 570+ internship projects.
+2 Resume builder - Use exceptional templates for a stand-out resume minus the sign up process. 
+3 UI Color Picker - Pick the right colours to paint the digital world all you need.
+4 Paymentr - Privacy-oriented app to track all your payments for free. You take charge and set reminders. No push notifications.
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+6
+Ineourn Internship Form------------------------------------------------------------------
+Select your Technology : Python
+Select your Project : online game
+Select your Domain : database
+Project Created....
+-------------------------------------
+	Welcome to ineuron
+	1. Course Library
+	2. Ineuron Blogs
+	3. Ineuron One Neourn
+	4. Ineuron Jobs
+	5 .Neourn Aaffiliates
+	6 .Neourn Internship
+	7. Exit...
+-------------------------------------
+7
+Re-enter your data:
+	MAIN MENU
+---------------------------
+	1. NEW USER CREATION
+	2. Login
+	3. Exit
+---------------------------
+	Select Your Option: 
+3
+
+Process finished with exit code 0

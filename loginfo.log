@@ -1,0 +1,710 @@
+2022-07-10 20:36:06,828 INFO root  WE are about to extact string from index one to index 300 with a jump of 3
+2022-07-10 20:36:06,828 INFO root  Extracted string is tssyityopgmncsa alrNph rgni ni: 
+2022-07-10 20:37:53,723 INFO root  WE are about to extact string from index one to index 300 with a jump of 3
+2022-07-10 20:37:53,723 INFO root  Extracted string is tssyityopgmncsa alrNph rgni ni: 
+2022-07-10 22:00:32,208 INFO root  Student Registration Form:
+2022-07-10 22:01:02,794 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 20, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:03:58,426 INFO root  Student Registration Form:
+2022-07-10 22:04:00,786 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:16:09,710 INFO root  Student Registration Form:
+2022-07-10 22:16:11,724 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:19:58,942 INFO root  Student Registration Form:
+2022-07-10 22:20:00,373 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    #assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:23:29,505 INFO root  Student Registration Form:
+2022-07-10 22:23:31,635 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:26:45,024 INFO root  Student Registration Form:
+2022-07-10 22:26:50,483 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:27:57,543 INFO root  Student Registration Form:
+2022-07-10 22:27:59,638 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-10 22:28:14,988 INFO root  Student Registration Form:
+2022-07-10 22:28:17,676 ERROR root  empty string
+2022-07-10 22:28:25,081 ERROR root  empty string
+2022-07-11 12:13:15,430 INFO root  Student Registration Form:
+2022-07-11 12:13:17,858 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-11 12:22:20,653 INFO root  Student Registration Form:
+2022-07-11 12:22:22,370 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-11 12:23:37,667 INFO root  Student Registration Form:
+2022-07-11 12:23:38,980 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-11 12:24:30,467 INFO root  Student Registration Form:
+2022-07-11 12:24:32,345 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-11 12:24:48,304 INFO root  Student Registration Form:
+2022-07-11 12:24:52,015 ERROR root  Name is empty.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 16, in Student_Signup
+    assert len(self.Name) != 0, "Name is empty."
+AssertionError: Name is empty.
+2022-07-11 12:29:48,989 INFO root  Student Registration Form:
+2022-07-11 12:29:52,387 ERROR root  empty string
+2022-07-11 12:30:15,205 ERROR root  Invalid Email.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 21, in Student_Signup
+    assert re.match(pat, self.Email),"Invalid Email."
+AssertionError: Invalid Email.
+2022-07-11 13:01:16,313 INFO root  Student Registration Form:
+2022-07-11 13:01:19,507 ERROR root  empty string
+2022-07-11 13:01:33,632 ERROR root  Invalid Email.
+2022-07-11 13:01:42,428 ERROR root  Invalid
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 25, in Student_Signup
+    assert p.pass_check(self.Pass1),"Invalid"
+AssertionError: Invalid
+2022-07-11 13:06:46,888 INFO root  Student Registration Form:
+2022-07-11 13:06:49,933 ERROR root  empty string
+2022-07-11 13:06:59,253 ERROR root  Invalid Email.
+2022-07-11 13:07:06,601 ERROR root  name 'false' is not defined
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 25, in Student_Signup
+    assert p.pass_check(self.Pass1)==false,"Invalid"
+NameError: name 'false' is not defined
+2022-07-11 13:10:51,175 INFO root  Student Registration Form:
+2022-07-11 13:10:54,625 ERROR root  empty string
+2022-07-11 13:11:03,012 ERROR root  Invalid Email.
+2022-07-11 13:22:13,484 ERROR root  empty string
+2022-07-11 13:29:48,211 INFO root  Student Registration Form:
+2022-07-11 13:29:51,794 ERROR root  empty string
+2022-07-11 13:30:00,782 ERROR root  Invalid Email.
+2022-07-11 13:30:23,072 ERROR root  Invalid no.
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 31, in Student_Signup
+    assert Pattern.match(self.Contact),"Invalid no."
+AssertionError: Invalid no.
+2022-07-11 14:18:14,826 ERROR root  1054 (42S22): Unknown column 'email' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'email' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=true,"login Failed!!!!"
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(que,data)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'email' in 'where clause'
+2022-07-11 14:24:46,816 ERROR root  1054 (42S22): Unknown column 'email' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'email' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=true,"login Failed!!!!"
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(que,data)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'email' in 'where clause'
+2022-07-11 14:26:24,880 ERROR root  1054 (42S22): Unknown column 'email' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'email' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=True,"login Failed!!!!"
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(que,data)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'email' in 'where clause'
+2022-07-11 14:27:55,397 ERROR root  1054 (42S22): Unknown column 'email' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'email' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=True,"login Failed!!!!"
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(que,data)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'email' in 'where clause'
+2022-07-11 14:28:45,310 ERROR root  1054 (42S22): Unknown column 'email' in 'where clause'
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Unknown column 'email' in 'where clause'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=True,"login Failed!!!!"
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(que,data)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1054 (42S22): Unknown column 'email' in 'where clause'
+2022-07-12 13:36:18,085 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=True,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:40:51,583 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)==False,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:43:37,558 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=True,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:47:31,540 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=True,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:48:35,046 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:49:45,276 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 46, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:50:39,041 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:51:36,074 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:52:13,122 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:55:59,471 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 13:56:51,508 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 14:02:04,082 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password)!=1,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 14:05:51,678 ERROR root  login Failed!!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 48, in Student_Login
+    assert database.login(self.userid,self.password) == 0,"login Failed!!!!"
+AssertionError: login Failed!!!!
+2022-07-12 15:03:43,935 ERROR root  Sorry, Login Failed!!!
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 55, in Student_Login
+    raise Exception("Sorry, Login Failed!!!")
+Exception: Sorry, Login Failed!!!
+2022-07-13 12:51:10,233 ERROR root  name 'cur' is not defined
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 67, in Student_Course
+    database.course()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 13, in course
+    cur.execute("SELECT * FROM ineourn_course")
+NameError: name 'cur' is not defined
+2022-07-13 12:52:57,030 ERROR root  name 'cur' is not defined
+Traceback (most recent call last):
+  File "C:/Users/sengu/PycharmProjects/Python_2022_to_2023/ineourn_main.py", line 67, in Student_Course
+    database.course()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 13, in course
+    def course():
+NameError: name 'cur' is not defined
+2022-07-13 13:56:45,594 INFO root  Student Registration Form:
+2022-07-14 12:32:56,120 ERROR root  Sorry, Login Failed!!!
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 55, in Student_Login
+    raise Exception("Sorry, Login Failed!!!")
+Exception: Sorry, Login Failed!!!
+2022-07-14 12:35:14,404 ERROR root  1146 (42S02): Table 'ineourn.one_neourn' doesn't exist
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Table 'ineourn.one_neourn' doesn't exist
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 81, in neourn
+    database.Neourn(self.n)
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 22, in Neourn
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1146 (42S02): Table 'ineourn.one_neourn' doesn't exist
+2022-07-14 12:48:04,267 ERROR root  Neourn() missing 1 required positional argument: 'n'
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 82, in neourn
+    assert not database.Neourn(), "No data found...2!!!!"
+TypeError: Neourn() missing 1 required positional argument: 'n'
+2022-07-14 12:59:19,337 ERROR root  No data found...2!!!!
+2022-07-14 13:22:55,386 ERROR root  No data found...2!!!!
+2022-07-14 13:24:17,769 ERROR root  No data found...2!!!!
+2022-07-14 13:35:20,040 ERROR root  No data found...2!!!!
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 112, in jobs
+    raise Exception('No data found...2!!!!')
+Exception: No data found...2!!!!
+2022-07-14 13:38:43,391 ERROR root  list.append() takes exactly one argument (3 given)
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 110, in jobs
+    lst=database.ineourn_jobs()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 32, in ineourn_jobs
+    lst.append(x[1], x[3], x[4])
+TypeError: list.append() takes exactly one argument (3 given)
+2022-07-14 13:39:58,265 ERROR root  list.append() takes exactly one argument (3 given)
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 110, in jobs
+    lst=database.ineourn_jobs()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 32, in ineourn_jobs
+    lst.append(x[1], x[3], x[4])
+TypeError: list.append() takes exactly one argument (3 given)
+2022-07-14 13:40:18,285 ERROR root  list.append() takes exactly one argument (3 given)
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 110, in jobs
+    lst=database.ineourn_jobs()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 32, in ineourn_jobs
+    lst.append(x[1], x[3], x[4])
+TypeError: list.append() takes exactly one argument (3 given)
+2022-07-14 13:41:23,261 ERROR root  list.append() takes exactly one argument (3 given)
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 111, in jobs
+    lst=database.ineourn_jobs()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 32, in ineourn_jobs
+    lst.append(x[1], x[3], x[4])
+TypeError: list.append() takes exactly one argument (3 given)
+2022-07-14 13:42:38,422 ERROR root  No data found...2!!!!
+2022-07-14 13:44:23,557 ERROR root  list.extend() takes exactly one argument (3 given)
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 111, in jobs
+    lst=database.ineourn_jobs()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 32, in ineourn_jobs
+    lst.extend(x[1],x[3],x[4])
+TypeError: list.extend() takes exactly one argument (3 given)
+2022-07-14 13:51:20,248 ERROR root  No data found...2!!!!
+2022-07-14 13:53:38,612 ERROR root  No data found...2!!!!
+2022-07-14 13:55:46,542 ERROR root  No data found...2!!!!
+2022-07-14 13:57:04,930 ERROR root  No data found...2!!!!
+2022-07-14 14:17:06,045 ERROR root  No data found...2!!!!
+2022-07-14 14:19:28,311 ERROR root  No data found...2!!!!
+2022-07-14 14:27:11,413 ERROR root  No data found...2!!!!
+2022-07-14 14:29:10,683 ERROR root  No data found...2!!!!
+2022-07-14 14:42:31,351 ERROR root  No data found...2!!!!
+2022-07-14 18:00:54,703 ERROR root  1136 (21S01): Column count doesn't match value count at row 1
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Column count doesn't match value count at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 149, in Internship
+    if database.iNeourn_Internship(self.tech, self.project,self.domain) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 44, in iNeourn_Internship
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.DataError: 1136 (21S01): Column count doesn't match value count at row 1
+2022-07-15 11:51:45,790 INFO root  Student Registration Form:
+2022-07-15 11:51:56,043 ERROR root  empty string
+2022-07-15 11:52:06,276 ERROR root  Invalid Email.
+2022-07-15 11:52:25,748 ERROR root  Invalid
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 30, in Student_Signup
+    assert p.pass_check(self.Pass1) != 1, "Invalid"
+AssertionError: Invalid
+2022-07-15 12:02:09,697 INFO root  Student Registration Form:
+2022-07-15 12:02:22,950 ERROR root  empty string
+2022-07-15 12:02:35,508 ERROR root  Invalid Email.
+2022-07-15 12:02:46,198 ERROR root  Invalid
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 30, in Student_Signup
+    assert p.pass_check(self.Pass1) != 1, "Invalid"
+AssertionError: Invalid
+2022-07-15 12:05:24,439 INFO root  Student Registration Form:
+2022-07-15 12:05:27,476 ERROR root  empty string
+2022-07-15 12:05:39,506 ERROR root  Invalid Email.
+2022-07-15 12:05:47,207 ERROR root  Invalid
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 32, in Student_Signup
+    assert p.pass_check(self.Pass1) != 1, "Invalid"
+AssertionError: Invalid
+2022-07-15 12:07:28,680 INFO root  Student Registration Form:
+2022-07-15 12:07:31,205 ERROR root  empty string
+2022-07-15 12:07:41,683 ERROR root  Invalid Email.
+2022-07-15 12:07:46,923 ERROR root  Invalid
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 32, in Student_Signup
+    assert a !=1, "Invalid"
+AssertionError: Invalid
+2022-07-15 12:09:37,098 INFO root  Student Registration Form:
+2022-07-15 12:09:40,020 ERROR root  empty string
+2022-07-15 12:09:50,495 ERROR root  Invalid Email.
+2022-07-15 12:09:56,247 ERROR root  'Signup' object has no attribute 'userid'
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 30, in Student_Signup
+    if p.pass_check(self.userid, self.password) != 1:
+AttributeError: 'Signup' object has no attribute 'userid'
+2022-07-15 12:15:18,337 INFO root  Student Registration Form:
+2022-07-15 12:15:20,579 ERROR root  empty string
+2022-07-15 12:15:23,348 ERROR root  Invalid Email.
+2022-07-15 12:15:29,008 ERROR root  pass_check() takes 1 positional argument but 4 were given
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 30, in Student_Signup
+    if p.pass_check(self.Name, self.Email,self.Pass1,self.Contact) != 1:
+TypeError: pass_check() takes 1 positional argument but 4 were given
+2022-07-15 12:16:08,332 INFO root  Student Registration Form:
+2022-07-15 12:16:10,120 ERROR root  empty string
+2022-07-15 12:16:12,246 ERROR root  Invalid Email.
+2022-07-15 12:16:17,396 ERROR root  Invalid password
+2022-07-15 12:16:26,656 ERROR root  Invalid
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 36, in Student_Signup
+    assert p.pass_check(self.Pass2) != 1, "Invalid"
+AssertionError: Invalid
+2022-07-15 12:17:48,540 INFO root  Student Registration Form:
+2022-07-15 12:17:50,935 ERROR root  empty string
+2022-07-15 12:17:53,113 ERROR root  Invalid Email.
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 27, in Student_Signup
+    assert re.match(pat, self.Email), "Invalid Email."
+AssertionError: Invalid Email.
+2022-07-15 12:18:10,096 INFO root  Student Registration Form:
+2022-07-15 12:18:12,482 ERROR root  empty string
+2022-07-15 12:18:23,197 ERROR root  Invalid Email.
+2022-07-15 12:18:27,984 ERROR root  Invalid password
+2022-07-15 12:18:35,000 ERROR root  Invalid password
+2022-07-15 12:19:09,453 ERROR root  Passwords are not matched
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 38, in Student_Signup
+    assert self.Pass1 != self.Pass2, "Passwords are not matched"
+AssertionError: Passwords are not matched
+2022-07-15 12:20:39,855 INFO root  Student Registration Form:
+2022-07-15 12:20:41,670 ERROR root  empty string
+2022-07-15 12:20:51,742 ERROR root  Invalid Email.
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 27, in Student_Signup
+    assert re.match(pat, self.Email), "Invalid Email."
+AssertionError: Invalid Email.
+2022-07-15 12:21:12,467 INFO root  Student Registration Form:
+2022-07-15 12:21:15,723 ERROR root  empty string
+2022-07-15 12:21:27,100 ERROR root  Invalid Email.
+2022-07-15 12:21:32,363 ERROR root  Invalid password
+2022-07-15 12:21:38,316 ERROR root  Invalid password
+2022-07-15 12:21:56,158 ERROR root  Passwords are not matched
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 38, in Student_Signup
+    assert self.Pass1 not in self.Pass2, "Passwords are not matched"
+AssertionError: Passwords are not matched
+2022-07-15 12:27:52,130 INFO root  Student Registration Form:
+2022-07-15 12:27:55,484 ERROR root  empty string
+2022-07-15 12:28:08,059 ERROR root  Invalid Email.
+2022-07-15 12:28:17,581 ERROR root  Invalid password
+2022-07-15 12:28:26,468 ERROR root  Invalid password
+2022-07-15 12:28:43,597 ERROR root  'Signup' object has no attribute 'Pass'
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 38, in Student_Signup
+    assert self.Pass==self.Pass2, "Passwords are not matched"
+AttributeError: 'Signup' object has no attribute 'Pass'
+2022-07-15 12:29:20,350 INFO root  Student Registration Form:
+2022-07-15 12:29:23,422 ERROR root  empty string
+2022-07-15 12:29:34,289 ERROR root  Invalid Email.
+2022-07-15 12:29:43,287 ERROR root  Invalid password
+2022-07-15 12:29:50,343 ERROR root  Invalid password
+2022-07-15 12:29:59,371 ERROR root  Invalid no.
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 40, in Student_Signup
+    assert Pattern.match(self.Contact), "Invalid no."
+AssertionError: Invalid no.
+2022-07-15 12:30:48,475 INFO root  Student Registration Form:
+2022-07-15 12:30:59,397 ERROR root  empty string
+2022-07-15 12:31:10,099 ERROR root  Invalid Email.
+2022-07-15 12:31:16,969 ERROR root  Invalid password
+2022-07-15 12:31:23,036 ERROR root  Invalid password
+2022-07-15 12:31:33,658 ERROR root  Invalid no.
+2022-07-15 12:31:34,302 ERROR root  1264 (22003): Out of range value for column 'phone' at row 1
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Out of range value for column 'phone' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 43, in Student_Signup
+    if database.iNeourn_user(self.Name,self.Email,self.Pass1,self.Contact) != True:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 55, in iNeourn_user
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.DataError: 1264 (22003): Out of range value for column 'phone' at row 1
+2022-07-15 12:39:38,954 INFO root  Student Registration Form:
+2022-07-15 12:40:07,815 ERROR root  empty string
+2022-07-15 12:40:47,204 ERROR root  Invalid Email.
+2022-07-15 12:40:53,086 ERROR root  Invalid password
+2022-07-15 12:40:59,480 ERROR root  Invalid password
+2022-07-15 12:41:11,252 ERROR root  Invalid no.
+2022-07-15 12:41:11,343 ERROR root  1264 (22003): Out of range value for column 'phone' at row 1
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: Out of range value for column 'phone' at row 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 43, in Student_Signup
+    if database.iNeourn_user(self.Name,self.Email,self.Pass1,self.Contact) != True:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 55, in iNeourn_user
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.DataError: 1264 (22003): Out of range value for column 'phone' at row 1
+2022-07-15 12:46:37,055 INFO root  Student Registration Form:
+2022-07-15 12:46:45,704 ERROR root  empty string
+2022-07-15 12:46:57,452 ERROR root  Invalid Email.
+2022-07-15 12:47:04,745 ERROR root  Invalid password
+2022-07-15 12:47:10,567 ERROR root  Invalid password
+2022-07-15 12:47:20,666 ERROR root  Invalid no.
+2022-07-15 12:47:54,510 INFO root  Student Registration Form:
+2022-07-15 13:11:11,452 ERROR root  No data found...2!!!!
+2022-07-15 13:35:18,381 ERROR root  No data found...2!!!!
+2022-07-15 13:42:32,918 INFO root  Student Registration Form:
+2022-07-15 13:42:42,439 ERROR root  empty string
+2022-07-15 13:42:57,620 ERROR root  Invalid Email.
+2022-07-15 13:43:06,765 ERROR root  Invalid password
+2022-07-15 13:43:16,068 ERROR root  Invalid password
+2022-07-15 13:43:26,502 ERROR root  Invalid no.
+2022-07-15 13:43:57,319 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 61, in Student_Login
+    if database.login(self.userid, self.password) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 13:44:00,573 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 74, in Student_Course
+    database.course()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 14, in course
+    cur.execute("SELECT * FROM ineourn_course")
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 13:46:17,304 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 74, in Student_Course
+    database.course()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 14, in course
+    cur.execute("SELECT * FROM ineourn_course")
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 13:47:13,821 ERROR root  No data found...2!!!!
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 75, in Student_Course
+    assert database.course(), "No data found...2!!!!"
+AssertionError: No data found...2!!!!
+2022-07-15 13:47:49,359 ERROR root  No data found...2!!!!
+2022-07-15 13:47:57,517 ERROR root  No data found...2!!!!
+2022-07-15 13:48:04,263 ERROR root  No data found...2!!!!
+2022-07-15 13:50:16,174 INFO root  Student Registration Form:
+2022-07-15 13:50:25,548 ERROR root  empty string
+2022-07-15 13:50:37,517 ERROR root  Invalid Email.
+2022-07-15 13:57:19,242 INFO root  Student Registration Form:
+2022-07-15 13:58:16,023 INFO root  Student Registration Form:
+2022-07-15 13:58:28,232 ERROR root  empty string
+2022-07-15 13:58:39,233 ERROR root  Invalid Email.
+2022-07-15 13:58:47,278 ERROR root  Invalid password
+2022-07-15 13:58:55,054 ERROR root  Invalid password
+2022-07-15 13:59:18,764 ERROR root  Invalid no.
+2022-07-15 14:00:02,848 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 65, in Student_Login
+    if database.login(self.userid, self.password) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:03:54,031 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 65, in Student_Login
+    if database.login(self.userid, self.password) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:09:03,322 INFO root  Student Registration Form:
+2022-07-15 14:09:11,947 ERROR root  empty string
+2022-07-15 14:09:25,523 ERROR root  Invalid Email.
+2022-07-15 14:09:33,319 ERROR root  Invalid password
+2022-07-15 14:09:39,870 ERROR root  Invalid password
+2022-07-15 14:09:48,149 ERROR root  Invalid no.
+2022-07-15 14:10:09,859 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 65, in Student_Login
+    if database.login(self.userid, self.password) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:11:30,341 INFO root  Student Registration Form:
+2022-07-15 14:11:38,860 ERROR root  empty string
+2022-07-15 14:11:50,461 ERROR root  Invalid Email.
+2022-07-15 14:12:00,324 ERROR root  Invalid password
+2022-07-15 14:12:05,259 ERROR root  Invalid password
+2022-07-15 14:12:12,535 ERROR root  Invalid no.
+2022-07-15 14:12:36,036 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 65, in Student_Login
+    if database.login(self.userid, self.password) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:14:25,549 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 79, in Student_Course
+    database.course()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 14, in course
+    cur.execute("SELECT * FROM ineourn_course")
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:14:50,616 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 65, in Student_Login
+    if database.login(self.userid, self.password) != 1:
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 7, in login
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:14:50,636 ERROR root  Unread result found
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 79, in Student_Course
+    database.course()
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\database.py", line 14, in course
+    cur.execute("SELECT * FROM ineourn_course")
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 243, in execute
+    self._cnx.handle_unread_result()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 803, in handle_unread_result
+    raise errors.InternalError("Unread result found")
+mysql.connector.errors.InternalError: Unread result found
+2022-07-15 14:15:31,865 ERROR root  No data found...2!!!!
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\Python_2022_to_2023\ineourn_main.py", line 80, in Student_Course
+    assert database.course(), "No data found...2!!!!"
+AssertionError: No data found...2!!!!
+2022-07-15 14:15:48,905 ERROR root  No data found...2!!!!
+2022-07-15 14:16:02,081 ERROR root  No data found...2!!!!
+2022-07-15 14:16:09,949 ERROR root  No data found...2!!!!
