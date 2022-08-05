@@ -1,0 +1,34 @@
+2022-07-26 12:35:42,604 ERROR root  1045 (28000): Access denied for user 'root1'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "C:\Users\sengu\AppData\Local\Temp/ipykernel_11272/3117773552.py", line 10, in create_server_connection
+    connection = mysql.connector.connect(host="localhost", database = 'ineourn',user="root1", passwd="user@123",use_pure=True)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\__init__.py", line 273, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 116, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\abstracts.py", line 1052, in connect
+    self._open_connection()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 496, in _open_connection
+    self._do_auth(self._user, self._password,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 242, in _do_auth
+    self._auth_switch_request(username, password)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 288, in _auth_switch_request
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root1'@'localhost' (using password: YES)
+2022-07-26 12:35:51,445 ERROR root  1045 (28000): Access denied for user 'root1'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "C:\Users\sengu\AppData\Local\Temp/ipykernel_11272/3117773552.py", line 10, in create_server_connection
+    connection = mysql.connector.connect(host="localhost", database = 'ineourn',user="root1", passwd="user@123",use_pure=True)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\__init__.py", line 273, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 116, in __init__
+    self.connect(**kwargs)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\abstracts.py", line 1052, in connect
+    self._open_connection()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 496, in _open_connection
+    self._do_auth(self._user, self._password,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 242, in _do_auth
+    self._auth_switch_request(username, password)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection.py", line 288, in _auth_switch_request
+    raise errors.get_exception(packet)
+mysql.connector.errors.ProgrammingError: 1045 (28000): Access denied for user 'root1'@'localhost' (using password: YES)
