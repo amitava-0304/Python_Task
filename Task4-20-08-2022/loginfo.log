@@ -1,0 +1,213 @@
+2022-08-20 17:38:47,437 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 17:45:01,909 ERROR root  Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request.  Consult the documentation on testing for
+information about how to avoid this problem.
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 16, in Internship
+    self.tech = request.json['tech']
+  File "C:\Users\sengu\anaconda3\lib\site-packages\werkzeug\local.py", line 432, in __get__
+    obj = instance._get_current_object()
+  File "C:\Users\sengu\anaconda3\lib\site-packages\werkzeug\local.py", line 554, in _get_current_object
+    return self.__local()  # type: ignore
+  File "C:\Users\sengu\anaconda3\lib\site-packages\flask\globals.py", line 38, in _lookup_req_object
+    raise RuntimeError(_request_ctx_err_msg)
+RuntimeError: Working outside of request context.
+
+This typically means that you attempted to use functionality that needed
+an active HTTP request.  Consult the documentation on testing for
+information about how to avoid this problem.
+2022-08-20 17:45:45,899 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 17:46:41,570 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 17:46:43,221 WARNING werkzeug   * Debugger is active!
+2022-08-20 17:46:43,288 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 17:46:43,446 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 17:50:18,472 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 17:50:18] "[35m[1mPOST /abc HTTP/1.1[0m" 500 -
+2022-08-20 17:57:51,363 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 17:57:53,869 WARNING werkzeug   * Debugger is active!
+2022-08-20 17:57:53,907 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 17:57:54,185 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 17:58:50,922 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 17:58:52,696 WARNING werkzeug   * Debugger is active!
+2022-08-20 17:58:52,711 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 17:58:52,827 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 17:59:40,859 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 17:59:42,615 WARNING werkzeug   * Debugger is active!
+2022-08-20 17:59:42,630 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 17:59:42,768 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:00:43,566 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:00:43] "POST /inser HTTP/1.1" 200 -
+2022-08-20 18:24:42,968 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:24:46,214 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:24:46,245 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:24:46,446 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:26:45,455 ERROR root  tuple index out of range
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 34, in Internship_Data
+    lst=database.Internship_Record(id)
+  File "C:\Users\sengu\PycharmProjects\api_project\database.py", line 10, in Internship_Record
+    lst.extend([x[1]+' '+x[3]+' '+x[4]])
+IndexError: tuple index out of range
+2022-08-20 18:26:45,559 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:26:45] "[35m[1mPOST /fetch HTTP/1.1[0m" 500 -
+2022-08-20 18:30:20,841 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:30:26,059 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:30:26,090 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:30:26,258 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:31:32,923 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:31:32] "POST /fetch HTTP/1.1" 200 -
+2022-08-20 18:33:21,768 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:33:23,573 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:33:23,573 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:33:23,736 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:33:30,835 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:33:30] "POST /fetch HTTP/1.1" 200 -
+2022-08-20 18:33:38,471 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:33:38] "POST /fetch HTTP/1.1" 200 -
+2022-08-20 18:42:39,381 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:42:42,773 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:42:42,804 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:42:43,272 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:43:21,100 ERROR root  1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 52, in Internship_Update
+    if database.Internship_update(id,tech) != 1:
+  File "C:\Users\sengu\PycharmProjects\api_project\database.py", line 26, in Internship_update
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+2022-08-20 18:43:21,305 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:43:21] "[35m[1mPOST /update HTTP/1.1[0m" 500 -
+2022-08-20 18:50:24,696 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 18:50:42,799 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:52:31,161 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:52:36,215 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:52:36,331 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:52:36,763 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:53:47,144 ERROR root  1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 52, in Internship_Update
+    if database.Internship_update(id,tech) != 1:
+  File "C:\Users\sengu\PycharmProjects\api_project\database.py", line 27, in Internship_update
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'from ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+2022-08-20 18:53:47,371 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 18:53:47] "[35m[1mPOST /update HTTP/1.1[0m" 500 -
+2022-08-20 18:56:17,475 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Main.py', reloading
+2022-08-20 18:56:17,475 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Main.py', reloading
+2022-08-20 18:56:19,665 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:56:50,342 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:56:50,373 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:56:50,743 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 18:58:28,913 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 18:58:31,466 WARNING werkzeug   * Debugger is active!
+2022-08-20 18:58:31,482 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 18:58:31,697 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 19:00:24,244 ERROR root  1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+Traceback (most recent call last):
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 535, in cmd_query
+    self._cmysql.query(query,
+_mysql_connector.MySQLInterfaceError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 52, in Internship_Update
+    if database.Internship_update(id,tech) != 1:
+  File "C:\Users\sengu\PycharmProjects\api_project\database.py", line 27, in Internship_update
+    cur.execute(statement)
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\cursor_cext.py", line 269, in execute
+    result = self._cnx.cmd_query(stmt, raw=self._raw,
+  File "C:\Users\sengu\anaconda3\lib\site-packages\mysql\connector\connection_cext.py", line 540, in cmd_query
+    raise errors.get_mysql_exception(exc.errno, msg=exc.msg,
+mysql.connector.errors.ProgrammingError: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'table ineourn_Internship set tech='Python' WHERE id='2'' at line 1
+2022-08-20 19:00:26,238 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 19:00:26] "[35m[1mPOST /update HTTP/1.1[0m" 500 -
+2022-08-20 19:05:45,419 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 19:05:49,011 WARNING werkzeug   * Debugger is active!
+2022-08-20 19:05:49,042 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 19:05:49,196 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 19:06:07,576 ERROR root  Sorry, Failed!!!
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 53, in Internship_Update
+    raise Exception("Sorry, Failed!!!")
+Exception: Sorry, Failed!!!
+2022-08-20 19:06:07,897 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 19:06:07] "[35m[1mPOST /update HTTP/1.1[0m" 500 -
+2022-08-20 19:09:00,066 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 19:09:00,097 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 19:09:03,259 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 19:11:05,026 WARNING werkzeug   * Debugger is active!
+2022-08-20 19:11:05,106 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 19:11:08,290 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 23:26:38,606 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 23:26:40,690 WARNING werkzeug   * Debugger is active!
+2022-08-20 23:26:40,707 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 23:26:40,974 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 23:27:50,569 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 23:27:50] "POST /update HTTP/1.1" 200 -
+2022-08-20 23:32:55,614 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:32:55,614 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:32:55,614 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:32:58,087 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 23:33:18,240 WARNING werkzeug   * Debugger is active!
+2022-08-20 23:33:18,249 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 23:33:18,768 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 23:33:40,201 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 23:33:41,466 WARNING werkzeug   * Debugger is active!
+2022-08-20 23:33:41,476 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 23:33:41,599 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 23:33:49,091 ERROR root  Sorry, Failed!!!
+Traceback (most recent call last):
+  File "C:\Users\sengu\PycharmProjects\api_project\Api_Main.py", line 53, in Internship_Update
+    raise Exception("Sorry, Failed!!!")
+Exception: Sorry, Failed!!!
+2022-08-20 23:33:49,258 INFO werkzeug  127.0.0.1 - - [20/Aug/2022 23:33:49] "[35m[1mPOST /update HTTP/1.1[0m" 500 -
+2022-08-20 23:36:28,774 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:36:28,775 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:36:28,779 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:36:28,783 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:36:31,463 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 23:36:53,310 WARNING werkzeug   * Debugger is active!
+2022-08-20 23:36:53,315 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 23:36:53,816 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-20 23:38:05,835 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:38:05,837 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:38:05,837 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:38:05,837 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\database.py', reloading
+2022-08-20 23:38:06,930 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 23:59:15,594 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-20 23:59:19,824 WARNING werkzeug   * Debugger is active!
+2022-08-20 23:59:19,908 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-20 23:59:20,204 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-21 00:00:22,116 INFO werkzeug  127.0.0.1 - - [21/Aug/2022 00:00:22] "POST /update HTTP/1.1" 200 -
+2022-08-21 00:03:54,862 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-21 00:04:01,742 WARNING werkzeug   * Debugger is active!
+2022-08-21 00:04:01,757 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-21 00:04:01,983 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-21 00:04:18,836 INFO werkzeug  127.0.0.1 - - [21/Aug/2022 00:04:18] "POST /delete HTTP/1.1" 200 -
+2022-08-21 00:10:04,706 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Mongo.py', reloading
+2022-08-21 00:10:10,535 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-21 00:10:26,152 WARNING werkzeug   * Debugger is active!
+2022-08-21 00:10:26,187 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-21 00:10:26,684 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2022-08-21 00:26:12,998 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Main.py', reloading
+2022-08-21 00:26:13,000 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Main.py', reloading
+2022-08-21 00:26:13,001 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Main.py', reloading
+2022-08-21 00:26:13,002 INFO werkzeug   * Detected change in 'C:\\Users\\sengu\\PycharmProjects\\api_project\\Api_Main.py', reloading
+2022-08-21 00:26:14,676 INFO werkzeug   * Restarting with watchdog (windowsapi)
+2022-08-21 00:26:52,458 WARNING werkzeug   * Debugger is active!
+2022-08-21 00:26:52,474 INFO werkzeug   * Debugger PIN: 138-221-130
+2022-08-21 00:26:52,864 INFO werkzeug   * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
